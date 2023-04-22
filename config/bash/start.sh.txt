@@ -1,0 +1,4 @@
+#!/bin/bash -e
+# Script para iniciar el servicio automáticamente
+
+for port in $(seq 4000 4004); do sudo systemctl start devgametools@$port; done
