@@ -18,7 +18,7 @@
 <img src="./assets/tech/python.png"/><img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/bash.png"/>
 <img src="./assets/tech/ai.png"/><img src="./assets/tech/cloud.png"/><img src="./assets/tech/docker.png"/>
 
-### Estoy aprendiendo...
+### Actually learning...
 <img src="./assets/tech/security.png"/>
 
 [website]: https://www.devgametools.com/
