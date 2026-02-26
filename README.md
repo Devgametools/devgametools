@@ -30,12 +30,10 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devgametools&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="width: 97%" />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devgametools&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Devgametools&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 97%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgametools&hide_border=true&layout=compact" alt="GitHub Stats" style="width: 97%" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgametools&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgametools&layout=compact&theme=radical" alt="GitHub Stats" style="width: 97%" />
 
 </td></tr></table>  
