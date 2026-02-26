@@ -26,7 +26,3 @@
 [x]: https://x.com/VRobertoBravoT
 [linkedin]: https://www.linkedin.com/in/vrbt
 [instagram]: https://www.instagram.com/vrobertobravot/
-
-### 📈 Github Stats
-
-[![Devgametools's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devgametools)](https://github.com/Devgametools/github-readme-stats)
