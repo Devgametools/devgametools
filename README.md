@@ -29,4 +29,4 @@
 
 ### 📈 Github Stats
 
-[![Devgametools's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgametools)](https://github.com/anuraghazra/github-readme-stats)
+[![Devgametools's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devgametools)](https://github.com/anuraghazra/github-readme-stats)
