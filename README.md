@@ -29,12 +29,4 @@
 
 ### 📈 Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devgametools&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 97%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgametools&layout=compact&theme=radical" alt="GitHub Stats" style="width: 97%" />
-
-</td></tr></table>  
+[![Devgametools's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgametools)](https://github.com/anuraghazra/github-readme-stats)
