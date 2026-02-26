@@ -34,6 +34,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgametools&hide_border=true&layout=compact" align="left" alt="GitHub Stats" style="width: 97%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgametools&hide_border=true&layout=compact" align="left" alt="GitHub Stats" style="width: 97%" />
 
 </td></tr></table>  
